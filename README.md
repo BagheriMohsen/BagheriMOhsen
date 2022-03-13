@@ -1,8 +1,6 @@
 ### Hi there 👋
 #### I'm a Backend Developer working in Iran, Tehran.
 
-**BagheriMohsen/BagheriMOhsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Winoex](http://winoex.com/) and [Nindoweb](https://nindoweb.com/)
