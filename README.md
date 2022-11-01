@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Irantic](https://www.irantic.com/)
+- 🔭 Currently, I am the CTO of the [Irantic](https://www.irantic.com/)
 - 💅 I use daily: `.php`, `.go`
 - 🌍 I'm mostly active within the **Laravel Community**
 - 🌱 Learning all about **Open Source**
